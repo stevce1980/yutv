@@ -1,430 +1,226 @@
 #EXTM3U
-#
-#EXTINF:-1 tvg-id="" tvg-name="### (SRB) SRBIA ###" tvg-logo="http://107.152.105.108:81/Logo/SERBIA/serbiaflag.png" group-title="EXYU| SERBIA",### (SRB) SRBIA ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4359
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS SVET" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSSVET.png" group-title="EXYU| SERBIA",(SRB) RTS SVET
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4358
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS 1 FHD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS1.png" group-title="EXYU| SERBIA",(SRB) RTS 1 FHD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4357
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS1.png" group-title="EXYU| SERBIA",(SRB) RTS 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4356
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS2.png" group-title="EXYU| SERBIA",(SRB) RTS 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4355
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS 3" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTS3.png" group-title="EXYU| SERBIA",(SRB) RTS 3
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4354
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA HD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAHD.png" group-title="EXYU| SERBIA",(SRB) PRVA HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4353
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAHD.png" group-title="EXYU| SERBIA",(SRB) PRVA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4352
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAPLUS.png" group-title="EXYU| SERBIA",(SRB) PRVA PLUS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4351
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA WORLD" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAWORLD.png" group-title="EXYU| SERBIA",(SRB) PRVA WORLD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4350
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA MAX" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAMAX.png" group-title="EXYU| SERBIA",(SRB) PRVA MAX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4349
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) 02 TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/02TV.png" group-title="EXYU| SERBIA",(SRB) 02 TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4348
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA KICK" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAKICK.png" group-title="EXYU| SERBIA",(SRB) PRVA KICK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4347
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PRVA FILES TEST" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PRVAFILESTEST.png" group-title="EXYU| SERBIA",(SRB) PRVA FILES TEST
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4346
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) N1 SRBIJA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/N1SRBIJA.png" group-title="EXYU| SERBIA",(SRB) N1 SRBIJA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4345
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) HAPPY TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/HAPPYTV.png" group-title="EXYU| SERBIA",(SRB) HAPPY TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4344
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) HAPPY TV PAROVI LIVE" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/HAPPYTVPAROVILIVE.png" group-title="EXYU| SERBIA",(SRB) HAPPY TV PAROVI LIVE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4343
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) ZADRUGA UZIVO 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO1.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4342
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) ZADRUGA UZIVO 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO2.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4341
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) ZADRUGA UZIVO 3" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/ZADRUGAUZIVO3.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 3
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4340
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) ZADRUGA UZIVO 4" tvg-logo="http://107.152.105.108:81/Logo/SERBIA/ZADRUGAUZIVO.png" group-title="EXYU| SERBIA",(SRB) ZADRUGA UZIVO 4
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/98651
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) NOVA S" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVAS.png" group-title="EXYU| SERBIA",(SRB) NOVA S
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4339
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS ZIVOT" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSZIVOT.png" group-title="EXYU| SERBIA",(SRB) RTS ZIVOT
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4338
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS TREZOR" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSTREZOR.png" group-title="EXYU| SERBIA",(SRB) RTS TREZOR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4337
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS MUZIKA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSMUZIKA.png" group-title="EXYU| SERBIA",(SRB) RTS MUZIKA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4336
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS KOLO" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSKOLO.png" group-title="EXYU| SERBIA",(SRB) RTS KOLO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4335
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS DRAMA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSDRAMA.png" group-title="EXYU| SERBIA",(SRB) RTS DRAMA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4334
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) RTS POLETARAC" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTSPOLETARAC.png" group-title="EXYU| SERBIA",(SRB) RTS POLETARAC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4333
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) SANDZAK TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/SANDZAKTV.png" group-title="EXYU| SERBIA",(SRB) SANDZAK TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4332
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) SANDZACKA TV MREZA" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/SANDZACKATVMREZA.png" group-title="EXYU| SERBIA",(SRB) SANDZACKA TV MREZA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4331
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) NOVI PAZAR" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVIPAZAR.png" group-title="EXYU| SERBIA",(SRB) NOVI PAZAR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4330
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) MLAVA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/MLAVATV.png" group-title="EXYU| SERBIA",(SRB) MLAVA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4329
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) BELLE AMIE" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/BELLEAMIE.png" group-title="EXYU| SERBIA",(SRB) BELLE AMIE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4328
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) NOVA M" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/NOVAM.png" group-title="EXYU| SERBIA",(SRB) NOVA M
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4327
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) KCN 2" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/KCN2.png" group-title="EXYU| SERBIA",(SRB) KCN 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4326
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) KCN 1" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/KCN1.png" group-title="EXYU| SERBIA",(SRB) KCN 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4325
-#EXTINF:-1 tvg-id="" tvg-name="(SRB) PALMA PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/PALMAPLUS.png" group-title="EXYU| SERBIA",(SRB) PALMA PLUS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4324
-#EXTINF:-1 tvg-id="" tvg-name="(SRS) RTK" tvg-logo="HTTP://107.152.105.108:81/Logo/SERBIA/LOGO/RTK.png" group-title="EXYU| SERBIA",(SRS) RTK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/4323
-#EXTINF:-1 tvg-id="" tvg-name="### (EXYU) PINK MEDIA ###" tvg-logo="http://107.152.105.108:81/Logo/crystallogo.png" group-title="EXYU| GENERAL",### (EXYU) PINK MEDIA ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10370
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKHD.png" group-title="EXYU| GENERAL",(EXYU) PINK HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10369
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINK.png" group-title="EXYU| GENERAL",(EXYU) PINK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10368
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINK2.png" group-title="EXYU| GENERAL",(EXYU) PINK 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10367
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK 3 INFO" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINK3INFO.png" group-title="EXYU| GENERAL",(EXYU) PINK 3 INFO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10366
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK ACTION" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKACTION.png" group-title="EXYU| GENERAL",(EXYU) PINK ACTION
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10365
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK BIH" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKBIH.png" group-title="EXYU| GENERAL",(EXYU) PINK BIH
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10364
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK MEDIA M" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKMEDIAM.png" group-title="EXYU| GENERAL",(EXYU) PINK MEDIA M
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10363
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK CLASSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKCLASSIC.png" group-title="EXYU| GENERAL",(EXYU) PINK CLASSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10362
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK HAHA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKHAHA.png" group-title="EXYU| GENERAL",(EXYU) PINK HAHA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10361
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK LOL" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKLOL.png" group-title="EXYU| GENERAL",(EXYU) PINK LOL
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10360
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK COMEDY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKCOMEDY.png" group-title="EXYU| GENERAL",(EXYU) PINK COMEDY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10359
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK PREMIUM" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKPREMIUM.png" group-title="EXYU| GENERAL",(EXYU) PINK PREMIUM
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10358
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK CRIME & MYSTERY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKCRIMEMYSTERY.png" group-title="EXYU| GENERAL",(EXYU) PINK CRIME & MYSTERY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10357
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK EXTRA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKEXTRA.png" group-title="EXYU| GENERAL",(EXYU) PINK EXTRA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10356
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK KUVAR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKKUVAR.png" group-title="EXYU| GENERAL",(EXYU) PINK KUVAR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10355
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK FILM" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKFILM.png" group-title="EXYU| GENERAL",(EXYU) PINK FILM
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10354
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK SOAP" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSOAP.png" group-title="EXYU| GENERAL",(EXYU) PINK SOAP
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10353
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK PEDIA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKPEDIA.png" group-title="EXYU| GENERAL",(EXYU) PINK PEDIA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10352
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK SCI-FI-FANTASY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSCIFIFANTASY.png" group-title="EXYU| GENERAL",(EXYU) PINK SCI-FI-FANTASY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10351
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK HORROR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKHORROR.png" group-title="EXYU| GENERAL",(EXYU) PINK HORROR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10350
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK STYLE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSTYLE.png" group-title="EXYU| GENERAL",(EXYU) PINK STYLE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10349
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK SHOW" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSHOW.png" group-title="EXYU| GENERAL",(EXYU) PINK SHOW
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10348
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK THRILLER" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKTHRILLER.png" group-title="EXYU| GENERAL",(EXYU) PINK THRILLER
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10347
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK WORLD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKWORLD.png" group-title="EXYU| GENERAL",(EXYU) PINK WORLD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10346
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK ZABAVA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKZABAVA.png" group-title="EXYU| GENERAL",(EXYU) PINK ZABAVA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10345
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK WORLD CINEMA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKWORLDCINEMA.png" group-title="EXYU| GENERAL",(EXYU) PINK WORLD CINEMA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10344
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK WESTERN" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKWESTERN.png" group-title="EXYU| GENERAL",(EXYU) PINK WESTERN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10343
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK SUPER KIDS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSUPERKIDS.png" group-title="EXYU| GENERAL",(EXYU) PINK SUPER KIDS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10342
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK SERIJE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKSERIJE.png" group-title="EXYU| GENERAL",(EXYU) PINK SERIJE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10341
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK ROMANCE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKROMANCE.png" group-title="EXYU| GENERAL",(EXYU) PINK ROMANCE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10340
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK REALITY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKREALITY.png" group-title="EXYU| GENERAL",(EXYU) PINK REALITY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10339
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK PLUS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKPLUS.png" group-title="EXYU| GENERAL",(EXYU) PINK PLUS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10338
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK N ROLL" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKNROLL.png" group-title="EXYU| GENERAL",(EXYU) PINK N ROLL
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10337
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK MUSIC 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKMUSIC2.png" group-title="EXYU| GENERAL",(EXYU) PINK MUSIC 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10336
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK MUSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKMUSIC.png" group-title="EXYU| GENERAL",(EXYU) PINK MUSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10335
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK KONCERT" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKKONCERT.png" group-title="EXYU| GENERAL",(EXYU) PINK KONCERT
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10334
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK KIDS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKKIDS.png" group-title="EXYU| GENERAL",(EXYU) PINK KIDS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10333
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK HITS 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKHITS2.png" group-title="EXYU| GENERAL",(EXYU) PINK HITS 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10332
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK HITS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKHITS.png" group-title="EXYU| GENERAL",(EXYU) PINK HITS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10331
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK FOLK 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKFOLK2.png" group-title="EXYU| GENERAL",(EXYU) PINK FOLK 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10330
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PINK FOLK" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PINKFOLK.png" group-title="EXYU| GENERAL",(EXYU) PINK FOLK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10329
-#EXTINF:-1 tvg-id="" tvg-name="### (EXYU) FILMSKI KANALI ###" tvg-logo="http://107.152.105.108:81/Logo/crystallogo.png" group-title="EXYU| GENERAL",### (EXYU) FILMSKI KANALI ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10328
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HBO HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HBOHD.png" group-title="EXYU| GENERAL",(EXYU) HBO HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10327
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HBO 2 HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HBO2HD.png" group-title="EXYU| GENERAL",(EXYU) HBO 2 HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10326
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HBO 3" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HBO3.png" group-title="EXYU| GENERAL",(EXYU) HBO 3
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10325
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) EPIC DRAMA HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/EPICDRAMAHD.png" group-title="EXYU| GENERAL",(EXYU) EPIC DRAMA HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10324
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) STAR TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/STARTV.png" group-title="EXYU| GENERAL",(EXYU) STAR TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10323
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TV 1000" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TV1000.png" group-title="EXYU| GENERAL",(EXYU) TV 1000
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10322
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SUPER STAR TV TEST" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SUPERSTARTVTEST.png" group-title="EXYU| GENERAL",(EXYU) SUPER STAR TV TEST
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10321
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINESTAR TV1" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINESTARTV1.png" group-title="EXYU| GENERAL",(EXYU) CINESTAR TV1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10320
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINESTAR ACTION TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINESTARACTIONTV.png" group-title="EXYU| GENERAL",(EXYU) CINESTAR ACTION TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10319
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINESTAR FANTASY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINESTARFANTASY.png" group-title="EXYU| GENERAL",(EXYU) CINESTAR FANTASY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10318
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINESTAR PREMIERE 1" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINESTARPREMIERE1.png" group-title="EXYU| GENERAL",(EXYU) CINESTAR PREMIERE 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10317
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINESTAR PREMIERE 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINESTARPREMIERE2.png" group-title="EXYU| GENERAL",(EXYU) CINESTAR PREMIERE 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10316
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINEMAX 1" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINEMAX1.png" group-title="EXYU| GENERAL",(EXYU) CINEMAX 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10315
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CINEMAX 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CINEMAX2.png" group-title="EXYU| GENERAL",(EXYU) CINEMAX 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10314
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) KLASIK TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/KLASIKTV.png" group-title="EXYU| GENERAL",(EXYU) KLASIK TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10313
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) M1 FILM" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/M1FILM.png" group-title="EXYU| GENERAL",(EXYU) M1 FILM
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10312
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) M1 GOLD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/M1GOLD.png" group-title="EXYU| GENERAL",(EXYU) M1 GOLD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10311
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) AXN ADRIA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/AXNADRIA.png" group-title="EXYU| GENERAL",(EXYU) AXN ADRIA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10310
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) KINO TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/KINOTV.png" group-title="EXYU| GENERAL",(EXYU) KINO TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10309
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX FHD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXFHD.png" group-title="EXYU| GENERAL",(EXYU) FOX FHD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10308
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX LIFE FHD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXLIFEFHD.png" group-title="EXYU| GENERAL",(EXYU) FOX LIFE FHD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10307
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX CRIME FHD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXCRIMEFHD.png" group-title="EXYU| GENERAL",(EXYU) FOX CRIME FHD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10306
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX MOVIES FHD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXMOVIESFHD.png" group-title="EXYU| GENERAL",(EXYU) FOX MOVIES FHD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10305
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOX.png" group-title="EXYU| GENERAL",(EXYU) FOX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10304
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX LIFE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXLIFE.png" group-title="EXYU| GENERAL",(EXYU) FOX LIFE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10303
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX CRIME" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXCRIME.png" group-title="EXYU| GENERAL",(EXYU) FOX CRIME
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10302
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOX MOVIES" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOXMOVIES.png" group-title="EXYU| GENERAL",(EXYU) FOX MOVIES
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10301
-#EXTINF:-1 tvg-id="" tvg-name="### (EXYU) DOKUMENTARNI ###" tvg-logo="http://107.152.105.108:81/Logo/crystallogo.png" group-title="EXYU| GENERAL",### (EXYU) DOKUMENTARNI ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10300
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) AGRO HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/AGROHD.png" group-title="EXYU| GENERAL",(EXYU) AGRO HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10299
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ANIMAL PLANET" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ANIMALPLANET.png" group-title="EXYU| GENERAL",(EXYU) ANIMAL PLANET
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10298
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ANIMAL PLANET HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ANIMALPLANETHD.png" group-title="EXYU| GENERAL",(EXYU) ANIMAL PLANET HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10297
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) 24 KITCHEN" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/24KITCHEN.png" group-title="EXYU| GENERAL",(EXYU) 24 KITCHEN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10296
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DISCOVERY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DISCOVERY.png" group-title="EXYU| GENERAL",(EXYU) DISCOVERY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10295
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DISCOVERY HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DISCOVERYHD.png" group-title="EXYU| GENERAL",(EXYU) DISCOVERY HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10294
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DISCOVERY ID" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DISCOVERYID.png" group-title="EXYU| GENERAL",(EXYU) DISCOVERY ID
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10293
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DISCOVERY ID XTRA  HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DISCOVERYIDXTRAHD.png" group-title="EXYU| GENERAL",(EXYU) DISCOVERY ID XTRA  HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10292
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TRAVEL XP HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TRAVELXPHD.png" group-title="EXYU| GENERAL",(EXYU) TRAVEL XP HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10291
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DA VINCI LEARNING" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DAVINCILEARNING.png" group-title="EXYU| GENERAL",(EXYU) DA VINCI LEARNING
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10290
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DISCOVERY SCIENCE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DISCOVERYSCIENCE.png" group-title="EXYU| GENERAL",(EXYU) DISCOVERY SCIENCE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10289
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CRIME INVESTIGATION" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CRIMEINVESTIGATION.png" group-title="EXYU| GENERAL",(EXYU) CRIME INVESTIGATION
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10288
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CBS REALITY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CBSREALITY.png" group-title="EXYU| GENERAL",(EXYU) CBS REALITY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10287
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TLC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TLC.png" group-title="EXYU| GENERAL",(EXYU) TLC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10286
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) E!" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/E.png" group-title="EXYU| GENERAL",(EXYU) E!
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10285
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DOKU TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DOKUTV.png" group-title="EXYU| GENERAL",(EXYU) DOKU TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10284
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TRAVEL  CHANNEL" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TRAVELCHANNEL.png" group-title="EXYU| GENERAL",(EXYU) TRAVEL  CHANNEL
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10283
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FINE LIVING" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FINELIVING.png" group-title="EXYU| GENERAL",(EXYU) FINE LIVING
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10282
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DOCUBOX" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DOCUBOX.png" group-title="EXYU| GENERAL",(EXYU) DOCUBOX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10281
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) VIASAT NATURE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/VIASATNATURE.png" group-title="EXYU| GENERAL",(EXYU) VIASAT NATURE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10280
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) VIASAT HISTORY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/VIASATHISTORY.png" group-title="EXYU| GENERAL",(EXYU) VIASAT HISTORY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10279
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) VIASAT EXPLORER" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/VIASATEXPLORER.png" group-title="EXYU| GENERAL",(EXYU) VIASAT EXPLORER
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10278
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NATIONAL GEOGRAPHIC WILD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NATIONALGEOGRAPHICWILD.png" group-title="EXYU| GENERAL",(EXYU) NATIONAL GEOGRAPHIC WILD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10277
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NATIONAL GEOGRAPHIC HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NATIONALGEOGRAPHICHD.png" group-title="EXYU| GENERAL",(EXYU) NATIONAL GEOGRAPHIC HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10276
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NATIONAL GEOGRAPHIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NATIONALGEOGRAPHIC.png" group-title="EXYU| GENERAL",(EXYU) NATIONAL GEOGRAPHIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10275
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NAT GEO WILD HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NATGEOWILDHD.png" group-title="EXYU| GENERAL",(EXYU) NAT GEO WILD HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10274
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) LOV I RIBOLOV HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/LOVIRIBOLOVHD.png" group-title="EXYU| GENERAL",(EXYU) LOV I RIBOLOV HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10273
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HISTORY HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HISTORYHD.png" group-title="EXYU| GENERAL",(EXYU) HISTORY HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10272
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HISTORY 2 HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HISTORY2HD.png" group-title="EXYU| GENERAL",(EXYU) HISTORY 2 HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10271
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HISTORY 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HISTORY2.png" group-title="EXYU| GENERAL",(EXYU) HISTORY 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10270
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HISTORY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HISTORY.png" group-title="EXYU| GENERAL",(EXYU) HISTORY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10269
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FOOD NETWORK" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FOODNETWORK.png" group-title="EXYU| GENERAL",(EXYU) FOOD NETWORK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10268
-#EXTINF:-1 tvg-id="" tvg-name="### (EXYU) DJECIJI KANALI ###" tvg-logo="http://107.152.105.108:81/Logo/crystallogo.png" group-title="EXYU| GENERAL",### (EXYU) DJECIJI KANALI ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10267
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) IDJ KIDS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/IDJKIDS.png" group-title="EXYU| GENERAL",(EXYU) IDJ KIDS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10266
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) MASA I MEDO" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/MASAIMEDO.png" group-title="EXYU| GENERAL",(EXYU) MASA I MEDO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10265
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TOM & JERRY" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TOMJERRY.png" group-title="EXYU| GENERAL",(EXYU) TOM & JERRY
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10264
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HAYATOVCI" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HAYATOVCI.png" group-title="EXYU| GENERAL",(EXYU) HAYATOVCI
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10263
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) GINX" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/GINX.png" group-title="EXYU| GENERAL",(EXYU) GINX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10262
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TNT KIDS" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TNTKIDS.png" group-title="EXYU| GENERAL",(EXYU) TNT KIDS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10261
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) RTL KOCKICA" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/RTLKOCKICA.png" group-title="EXYU| GENERAL",(EXYU) RTL KOCKICA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10260
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) MINI TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/MINITV.png" group-title="EXYU| GENERAL",(EXYU) MINI TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10259
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) MINIMAX" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/MINIMAX.png" group-title="EXYU| GENERAL",(EXYU) MINIMAX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10258
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PIKABOO" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PIKABOO.png" group-title="EXYU| GENERAL",(EXYU) PIKABOO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10257
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NICKELODEON SR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NICKELODEONSR.png" group-title="EXYU| GENERAL",(EXYU) NICKELODEON SR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10256
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NICKELODEON HR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NICKELODEONHR.png" group-title="EXYU| GENERAL",(EXYU) NICKELODEON HR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10255
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NICK JR SR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NICKJRSR.png" group-title="EXYU| GENERAL",(EXYU) NICK JR SR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10254
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NICK JR HR" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NICKJRHR.png" group-title="EXYU| GENERAL",(EXYU) NICK JR HR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10253
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) BABY TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/BABYTV.png" group-title="EXYU| GENERAL",(EXYU) BABY TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10252
-#EXTINF:-1 tvg-id="" tvg-name="### (EXYU) MUZICKI KANALI ###" tvg-logo="http://107.152.105.108:81/Logo/crystallogo.png" group-title="EXYU| GENERAL",### (EXYU) MUZICKI KANALI ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10251
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HAYAT  MUSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HAYATMUSIC.png" group-title="EXYU| GENERAL",(EXYU) HAYAT  MUSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10250
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) HAYAT  FOLK" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HAYATFOLK.png" group-title="EXYU| GENERAL",(EXYU) HAYAT  FOLK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10249
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) GRAND 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/GRAND2.png" group-title="EXYU| GENERAL",(EXYU) GRAND 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10248
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) GRAND" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/GRAND.png" group-title="EXYU| GENERAL",(EXYU) GRAND
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10247
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) BUJRUM TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/BUJRUMTV.png" group-title="EXYU| GENERAL",(EXYU) BUJRUM TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10246
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) IDJ TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/IDJTV.png" group-title="EXYU| GENERAL",(EXYU) IDJ TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10245
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) IDJ MUSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/IDJMUSIC.png" group-title="EXYU| GENERAL",(EXYU) IDJ MUSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10244
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DM SAT" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DMSAT.png" group-title="EXYU| GENERAL",(EXYU) DM SAT
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10243
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) BALKANIKA TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/BALKANIKATV.png" group-title="EXYU| GENERAL",(EXYU) BALKANIKA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10242
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) BN MUSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/BNMUSIC.png" group-title="EXYU| GENERAL",(EXYU) BN MUSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10241
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CMC MUSIC" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CMCMUSIC.png" group-title="EXYU| GENERAL",(EXYU) CMC MUSIC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10240
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) JUGOTON" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/JUGOTON.png" group-title="EXYU| GENERAL",(EXYU) JUGOTON
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10239
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) IZVORNA TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/IZVORNATV.png" group-title="EXYU| GENERAL",(EXYU) IZVORNA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10238
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SEVDAH TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SEVDAHTV.png" group-title="EXYU| GENERAL",(EXYU) SEVDAH TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10237
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) GLAS DRINE" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/GLASDRINE.png" group-title="EXYU| GENERAL",(EXYU) GLAS DRINE
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10236
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) YU PLANET" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/YUPLANET.png" group-title="EXYU| GENERAL",(EXYU) YU PLANET
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10235
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) DUGA TV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/DUGATV.png" group-title="EXYU| GENERAL",(EXYU) DUGA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10234
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) MTV" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/MTV.png" group-title="EXYU| GENERAL",(EXYU) MTV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10233
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SOS (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SOSSR.png" group-title="EXYU| GENERAL",(EXYU) SOS (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10232
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) TV PARTIZAN HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/TVPARTIZANHDSR.png" group-title="EXYU| GENERAL",(EXYU) TV PARTIZAN HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10231
-#EXTINF:-1 tvg-id="hntv.hr" tvg-name="(EXYU) HNTV (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/HNTVHR.png" group-title="EXYU| GENERAL",(EXYU) HNTV (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10230
-#EXTINF:-1 tvg-id="sportskatv.hr" tvg-name="(EXYU) SPORTSKA TV (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTSKATVHR.png" group-title="EXYU| GENERAL",(EXYU) SPORTSKA TV (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10229
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) MOJA TV (BH)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/MOJATVBH.png" group-title="EXYU| GENERAL",(EXYU) MOJA TV (BH)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10228
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) CITY TV (BH)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/CITYTVBH.png" group-title="EXYU| GENERAL",(EXYU) CITY TV (BH)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10227
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) NOVA SPORT" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/NOVASPORT.png" group-title="EXYU| GENERAL",(EXYU) NOVA SPORT
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10226
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORTKLUB HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUBHD.png" group-title="EXYU| GENERAL",(EXYU) SPORTKLUB HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10225
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORTKLUB 1 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB1HDSR.png" group-title="EXYU| GENERAL",(EXYU) SPORTKLUB 1 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10224
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORTKLUB 2 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB2HDSR.png" group-title="EXYU| GENERAL",(EXYU) SPORTKLUB 2 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10223
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORTKLUB 3 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB3HDSR.png" group-title="EXYU| GENERAL",(EXYU) SPORTKLUB 3 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10222
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORT KLUB 1(HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB1HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 1(HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10221
-#EXTINF:-1 tvg-id="sportklub2.hr" tvg-name="(EXYU) SPORT KLUB 2 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB2HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 2 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10220
-#EXTINF:-1 tvg-id="sportklub3.hr" tvg-name="(EXYU) SPORT KLUB 3 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB3HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 3 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10219
-#EXTINF:-1 tvg-id="sportklub4.hr" tvg-name="(EXYU) SPORT KLUB 4 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB4HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 4 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10218
-#EXTINF:-1 tvg-id="sportklub5.hr" tvg-name="(EXYU) SPORT KLUB 5 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB5HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 5 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10217
-#EXTINF:-1 tvg-id="sportklub6.hr" tvg-name="(EXYU) SPORT KLUB 6 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB6HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 6 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10216
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORT KLUB 7 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB7HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 7 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10215
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORT KLUB 8 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB8HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 8 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10214
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORT KLUB 9 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB9HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 9 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10213
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) SPORT KLUB 10 (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/SPORTKLUB10HR.png" group-title="EXYU| GENERAL",(EXYU) SPORT KLUB 10 (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10212
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 1 BIH" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT1BIH.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 1 BIH
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10211
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 1 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT1HDSR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 1 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10210
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 2 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT2HDSR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 2 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10209
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 3 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT3HDSR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 3 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10208
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 4 HD (SRB)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT4HDSR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 4 HD (SRB)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10207
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="(EXYU) ARENA SPORT 1 HD (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT1HDHR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 1 HD (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10206
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="(EXYU) ARENA SPORT 2 HD (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT2HDHR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 2 HD (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10205
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="(EXYU) ARENA SPORT 3 HD (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT3HDHR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 3 HD (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10204
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) ARENA SPORT 4 HD (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT4HDHR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 4 HD (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10203
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="(EXYU) ARENA SPORT 5 HD (HR)" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/ARENASPORT5HDHR.png" group-title="EXYU| GENERAL",(EXYU) ARENA SPORT 5 HD (HR)
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10202
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/EUROSPORT1HD.png" group-title="EXYU| GENERAL",(EXYU) EUROSPORT 1 HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10201
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/EUROSPORT2HD.png" group-title="EXYU| GENERAL",(EXYU) EUROSPORT 2 HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10200
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FIGHT NETWORK" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FIGHTNETWORK.png" group-title="EXYU| GENERAL",(EXYU) FIGHT NETWORK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10199
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) FIGHTBOX" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/FIGHTBOX.png" group-title="EXYU| GENERAL",(EXYU) FIGHTBOX
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10198
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PLANETSPORT 1" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PLANETSPORT1.png" group-title="EXYU| GENERAL",(EXYU) PLANETSPORT 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10197
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PLANETSPORT 2" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PLANETSPORT2.png" group-title="EXYU| GENERAL",(EXYU) PLANETSPORT 2
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10196
-#EXTINF:-1 tvg-id="" tvg-name="(EXYU) PLANETSPORT 3" tvg-logo="http://107.152.105.108:81/Logo/EXYUGENERAL/PLANETSPORT3.png" group-title="EXYU| GENERAL",(EXYU) PLANETSPORT 3
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/10195
+#EXTINF:-1,EX: HRT 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17331
+#EXTINF:-1,EX: HRT 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17332
+#EXTINF:-1,EX: HRT 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17333
+#EXTINF:-1,EX: HRT 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17334
+#EXTINF:-1,EX: RTS 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17335
+#EXTINF:-1,EX: RTS 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17336
+#EXTINF:-1,EX: Prva 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17337
+#EXTINF:-1,EX: PRVA WORLD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17338
+#EXTINF:-1,EX: Prva Plus
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17339
+#EXTINF:-1,EX: RTL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17340
+#EXTINF:-1,EX: RTL 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17341
+#EXTINF:-1,EX: RTL CRIME
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17342
+#EXTINF:-1,EX: RTL LIVING
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17343
+#EXTINF:-1,EX: RTL PASSION HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17344
+#EXTINF:-1,EX: TLC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17345
+#EXTINF:-1,EX: RTV Novi Pazar
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17346
+#EXTINF:-1,EX: RTV Vojvodina 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17347
+#EXTINF:-1,EX: KCN 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17353
+#EXTINF:-1,EX: KCN 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17354
+#EXTINF:-1,EX: KCN 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17355
+#EXTINF:-1,EX: M 1 FILM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17356
+#EXTINF:-1,*** FILMSKI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17376
+#EXTINF:-1,EX: TV1000
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17377
+#EXTINF:-1,EX: HBO HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17378
+#EXTINF:-1,EX: HBO 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17379
+#EXTINF:-1,EX: HBO 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17380
+#EXTINF:-1,EX: HBO 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17381
+#EXTINF:-1,EX: fox
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17382
+#EXTINF:-1,EX: FOX CRIME
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17383
+#EXTINF:-1,EX: FOX LIFE
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17384
+#EXTINF:-1,EX: FOX MOVIIES
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17385
+#EXTINF:-1,EX: AMC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17386
+#EXTINF:-1,EX: NOVA TV HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17387
+#EXTINF:-1,EX: CINEMANIA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17388
+#EXTINF:-1,EX: CineMax 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17389
+#EXTINF:-1,EX: CINEMAX. 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17390
+#EXTINF:-1,EX: CINESTAR TV HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17391
+#EXTINF:-1,EX: CineStar Premiere 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17392
+#EXTINF:-1,EX: CINESTAR PREMIERE 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17393
+#EXTINF:-1,EX: CINESTAR TV (RS)
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17394
+#EXTINF:-1,EX: CINESTAR TV ACTION
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17395
+#EXTINF:-1,EX: CINESTAR FANTASY hr
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17396
+#EXTINF:-1,EX: MAX KIDS HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17397
+#EXTINF:-1,EX: KINO TV HD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17398
+#EXTINF:-1,EX: FILMBOX EXTRA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17399
+#EXTINF:-1,EX: FILMBOX FILMPLUS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17400
+#EXTINF:-1,*** PINKOVI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17401
+#EXTINF:-1,EX: PINK
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17402
+#EXTINF:-1,EX: PINK BRAVO MUSIC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17403
+#EXTINF:-1,EX: PINK 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17404
+#EXTINF:-1,EX: PINK 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17405
+#EXTINF:-1,EX: PINK ACTION
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17406
+#EXTINF:-1,EX: PINK BH
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17407
+#EXTINF:-1,EX: PINK COMEDY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17408
+#EXTINF:-1,EX: PINK CRIME & MYSTERY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17409
+#EXTINF:-1,EX: PINK FILM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17410
+#EXTINF:-1,EX: PINK HORROR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17411
+#EXTINF:-1,EX: PINK PEDIA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17412
+#EXTINF:-1,EX: PINK PLUS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17413
+#EXTINF:-1,EX: PINK PREMIUM
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17414
+#EXTINF:-1,EX: PINK REALITY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17415
+#EXTINF:-1,EX: PINK ROMANCE
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17416
+#EXTINF:-1,EX: PINK SCI AND FANTASY
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17417
+#EXTINF:-1,EX: PINK LOL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17418
+#EXTINF:-1,EX: PINK THRILLER
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17419
+#EXTINF:-1,EX: PINK WESTERN
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17420
+#EXTINF:-1,EX: PINK ZABAVA
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17421
+#EXTINF:-1,*** MUSIC EX-YU ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17422
+#EXTINF:-1,EX: YU Planet
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17423
+#EXTINF:-1,EX: TV Duga Plus
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17424
+#EXTINF:-1,EX: PINK FOLK 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17425
+#EXTINF:-1,EX: PINK FOLK 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17426
+#EXTINF:-1,EX: Grand TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17427
+#EXTINF:-1,EX: GRAND 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17428
+#EXTINF:-1,EX: DM SAT
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17429
+#EXTINF:-1,EX: HAYAT FOLK
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17430
+#EXTINF:-1,EX: HAYAT MUSIC
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17431
+#EXTINF:-1,EX: BN Music
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17432
+#EXTINF:-1,EX: City TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17433
+#EXTINF:-1,EX: OTV- VALENTINO
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17434
+#EXTINF:-1,*** DJECIJI KANALI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17435
+#EXTINF:-1,EX: PINK KIDS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17436
+#EXTINF:-1,EX: HAYATOVCI
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17437
+#EXTINF:-1,EX: NICK JUNIOR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17438
+#EXTINF:-1,EX: NICKELODEON
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17439
+#EXTINF:-1,EX: RTL Kockica
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17440
+#EXTINF:-1,*** DOCUMENTARNI ***
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17441
+#EXTINF:-1,EX: Doma TV
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17442
+#EXTINF:-1,EX: HISTORY CHANNEL
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17443
+#EXTINF:-1,EX: Nat Geo WILD
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17444
+#EXTINF:-1,EX: Discovery Channel
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17445
+#EXTINF:-1,EX: National Geographic
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17446
+#EXTINF:-1,EX: Viasat Explorer
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17447
+#EXTINF:-1,EX: Viasat Nature
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17448
+#EXTINF:-1,EX: Viasat History
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/17449
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇  Arena Sport ▇ ▆ ▅ ▄ ▃
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/751
+#EXTINF:-1,EX-YO: Arena Sport 1 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
+#EXTINF:-1,EX-YO: Arena Sport 2 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
+#EXTINF:-1,EX-YO: Arena Sport 3 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
+#EXTINF:-1,EX-YO: Arena Sport 4 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
+#EXTINF:-1,EX-YO: Arena Sport 5 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
+#EXTINF:-1,EX-YO: Arena Sport 1 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
+#EXTINF:-1,EX-YO: Arena Sport 2 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
+#EXTINF:-1,EX-YO: Arena Sport 3 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
+#EXTINF:-1,EX-YO: Arena Sport 4 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
+#EXTINF:-1,EX-YO: Arena Sport 5 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
+#EXTINF:-1,EX-YO: Sport Klub 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
+#EXTINF:-1,EX-YO: Sport Klub 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
+#EXTINF:-1,EX-YO: Sport Klub 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+#EXTINF:-1,EX-YO: Sport Klub 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
+#EXTINF:-1,EX-YO: Sport Klub 5
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
+#EXTINF:-1,EX-YO: Sport Klub 6
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+
